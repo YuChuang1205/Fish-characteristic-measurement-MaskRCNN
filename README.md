@@ -1,6 +1,7 @@
 
-paper: Segmentation and measurement scheme for fish morphological features based on Mask R-CNN.
+paper: **Segmentation and measurement scheme for fish morphological features based on Mask R-CNN**.
 [链接](https://www.researchgate.net/publication/338678060_Segmentation_and_Measurement_Scheme_for_Fish_Morphological_Features_Based_on_Mask_R-CNN)
+
 "train_model.py" is the file that performs the training.
 "test_model.py" is the file that executes the test.
 "train_data" folder is a training sample set.
